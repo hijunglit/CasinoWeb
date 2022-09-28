@@ -1,1 +1,1 @@
-# CasinoWeb
+# Casino website
